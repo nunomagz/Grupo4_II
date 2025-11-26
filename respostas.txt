@@ -3,3 +3,6 @@
 
 "Diga qual o comando git para verificar os ficheiros adicionados que não estão como staged, e ficheiros que estão staged.
 Git status
+
+"Diga o que faz o comando git log --follow meu_script.py."
+Continua a mostrar o histórico do ficheiro apesar de o ficheiro ter tido o nome alterado. 
