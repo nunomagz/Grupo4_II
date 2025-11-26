@@ -1,2 +1,5 @@
 1. propoem melhoria de codigo
 2. cria snapshot quase instantaneos.
+
+"Diga qual o comando git para verificar os ficheiros adicionados que não estão como staged, e ficheiros que estão staged.
+Git status
